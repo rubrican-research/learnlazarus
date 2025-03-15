@@ -11,6 +11,6 @@ You can always go back and look at different versions to see how things were bui
 # Get Lazarus
 
 # Online Resources
-[FPC/LCL Documentation](https://www.freepascal.org/docs.html)
-[Lazarus Forum](http://forum.lazarus.freepascal.org/index.php?action=forum)
-[The Silver Pascal Coder](https://www.youtube.com/@silvercoder70)
+- [FPC/LCL Documentation](https://www.freepascal.org/docs.html)
+- [Lazarus Forum](http://forum.lazarus.freepascal.org/index.php?action=forum)
+- [The Silver Pascal Coder](https://www.youtube.com/@silvercoder70)
